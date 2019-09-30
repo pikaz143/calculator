@@ -1,5 +1,5 @@
 # Scientific Calculator
-calculator to perform mathematical computations
+Calculator to Perform Mathematical Computations
 
 # Resources Used
 ![](https://img.shields.io/badge/html-5-blue.svg?style=for-the-badge&display=inline-block&logo=html5)
