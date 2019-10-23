@@ -1,6 +1,8 @@
 html
 {
     background-color:#553d67;
+    overflow: hidden;
+    background-image: fixed;
 }
 body{
     background-size:100%;
